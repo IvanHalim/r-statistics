@@ -1,0 +1,151 @@
+Major,SchoolWorkHours,Terms,CreditHours,Distance,Roommates,Job,SchoolMaterialsDollars,Salary,Activity,Height,Gender,Email,TextMessages,Phone,Gaming,GamingHours,Profile,SocialTime,SubjectPreferred,International,States
+Civil or CEM,25,5,12,0,1,2,400,6e4,60,69,Other,15,40,iOS,Computer,15,TRUE,120,Math,FALSE,7
+Mechanical Engineering,20,8,13,0.6,6,2,200,5e4,125,68.5,Male,6,41,Android,Computer,25,TRUE,90,Math,FALSE,48
+Computer Science,25,5,15,2,3,3,200,6e4,20,70,Male,55,33,Android,Computer,10,TRUE,0,Math,FALSE,5
+Industrial Engineering,25,3,18,19.41672131147541,2,0,300,6e4,60,68,Male,7,55,iOS,Computer,5,TRUE,60,Math,TRUE,4
+Civil or CEM,14,10,10,1.5,2,3,150,6e4,60,71,Male,10,35,iOS,Computer,5,TRUE,30,Math,FALSE,11
+Civil or CEM,15,7,13,1,2,2,250,8e4,80,70,Male,10,52,iOS,Console,15,TRUE,30,Math,FALSE,6
+Computer Science,35,4,16,5.4,3,6,50,5e4,20,64,Female,5,38,iOS,Mobile,0,TRUE,5,Math,FALSE,24
+Mechanical Engineering,30,8,12,0.8,4,3,300,8e4,60,67,Male,4,11,iOS,Console,3,TRUE,80,Math,FALSE,5
+Civil or CEM,5,10,13,19.41672131147541,1,1,500,153e3,120,72,Male,6,32,iOS,Console,7,TRUE,60,Math,TRUE,9
+Civil or CEM,15,12,7,1.5,2,10,350,55e3,30,71,Male,15,10,Android,Mobile,2,TRUE,20,Math,FALSE,16
+Civil or CEM,18,8,14,2,4,3,200,7e4,90,72,Male,2,25,iOS,Console,5,TRUE,90,Math,FALSE,7
+Civil or CEM,4,10,8,27,2,6,300,45e3,45,74,Male,11,13,Android,Computer,5,TRUE,5,Writing,FALSE,13
+Civil or CEM,27,10,15,0.6,4,4,70,65e3,30,67,Male,10,42,Android,Console,20,TRUE,180,Math,FALSE,10
+Other,18,4,18,19.41672131147541,1,9,300,55e3,0,70,Male,8,10,iOS,None (I don't play video games),0,TRUE,10,Math,FALSE,43
+Mechanical Engineering,8,5,19,19.41672131147541,4,1,300,6e4,15,70,Male,5,11,Android,Computer,10,FALSE,0,Math,FALSE,6
+Other,20,8,13,204,0,5,350,6e4,25,75,Male,14,47,Android,Computer,10,TRUE,75,Math,FALSE,9
+Civil or CEM,22,11,12,2.49,3,1,400,75e3,30,69,Male,7,28,iOS,Console,20,TRUE,75,Math,FALSE,11
+Computer Science,15,5,15,19.41672131147541,2,1,100,6e4,30,64,Male,10,12,iOS,Computer,0,TRUE,120,Math,TRUE,2
+Civil or CEM,40,2,14,0.5,2,2,300,8e4,120,73,Male,14,42,iOS,Console,2,TRUE,20,Math,FALSE,4
+Mechanical Engineering,16,8,14,1.5,4,6,200,6e4,40,72,Male,2,53,Android,Console,3,TRUE,90,Math,FALSE,7
+Civil or CEM,20,4,12,0.6,1,1,75,5e4,600,70,Male,9,51,iOS,None (I don't play video games),0,TRUE,276,Writing,TRUE,4
+Mechanical Engineering,20,6,14,0.7,25,4,300,6e4,30,72,Male,4,22,iOS,Console,1,TRUE,120,Math,FALSE,12
+Mechanical Engineering,10,9,13,1,3,2,600,8e4,120,67,Male,60,16,iOS,Computer,30,TRUE,120,Math,FALSE,4
+Computer Science,50,7,15,1,4,1,100,6e4,180,69,Male,8,27,iOS,Console,10,TRUE,60,Math,TRUE,2
+Computer Science,20,5,15,19.41672131147541,4,4,300,5e4,60,68,Male,10,41,Android,Computer,3,TRUE,1,Math,TRUE,6
+Computer Science,0,3,16,0.25,4,2,150,65e3,60,73,Male,18,42,Android,Computer,13.65,TRUE,180,Writing,FALSE,15
+Civil or CEM,35,12,17,0.5,1,0,200,45e3,40,69,Male,5,4,iOS,Mobile,4,TRUE,30,Writing,TRUE,6
+Civil or CEM,6,6,14,0,1,6,550,75e3,0,70,Male,12,17,iOS,Console,28,TRUE,0,Math,FALSE,4
+Mechanical Engineering,10,4,6,48,1,7,200,6e4,30,75,Male,3,1,Android,Computer,10,TRUE,5,Math,FALSE,5
+Other,11,2,13,0.7,6,0,300,4e4,30,66,Male,7,54,iOS,None (I don't play video games),0,TRUE,80,Math,TRUE,2
+Computer Science,35,5,16,19.41672131147541,3,1,300,5e4,0,70,Male,10,1,iOS,Computer,50,TRUE,120,Math,FALSE,1
+Computer Science,17,4,13,19.41672131147541,1,0,150,8e4,2,74,Male,8,2,iOS,Computer,10,FALSE,120,Math,TRUE,7
+Computer Science,3,4,17,1,3,1,300,5e4,60,72,Male,10,41,iOS,None (I don't play video games),0,TRUE,60,Math,FALSE,4
+Computer Science,25,5,14,0.5,4,4,100,8e4,30,76,Male,8,6,iOS,Computer,15,TRUE,60,Math,FALSE,10
+Computer Science,25,5,15,0.6,1,3,200,8e4,15,75,Male,15,49,Android,Computer,6,TRUE,60,Math,FALSE,6
+Computer Science,12,8,15,19.41672131147541,50,3,300,9e4,90,71,Male,11,44,iOS,Console,2,TRUE,45,Math,FALSE,5
+Computer Science,30,4,16,0.3,7,1,200,55e3,45,69,Male,1,1,Android,Computer,15,TRUE,15,Math,FALSE,20
+Computer Science,4.5,2,15,0,1,0,200,35e3,10,65,Male,1,22,Android,Computer,37,TRUE,240,Math,FALSE,4
+Computer Science,6,10,10,2,2,1,400,6e4,50,71,Male,14,56,iOS,Console,15,TRUE,300,Math,FALSE,3
+Mechanical Engineering,40,7,14,0.3,4,5,200,6e4,60,73,Male,11,42,iOS,None (I don't play video games),0,TRUE,60,Math,FALSE,8
+Computer Science,15,5,15,2.4,4,3,100,6e4,60,65,Female,10,57,iOS,Console,2,TRUE,45,Math,FALSE,19
+Computer Science,40,5,18,19.41672131147541,2,0,300,12e3,60,66,Female,18,1,Android,None (I don't play video games),0,TRUE,120,Math,TRUE,1
+Civil or CEM,40,2,18,1.5,3,6,200,6e4,15,72,Male,20,27,Android,None (I don't play video games),0,TRUE,30,Math,FALSE,8
+Computer Science,15,5,14,244,48,2,300,8e4,30,72,Female,13,34,iOS,Console,0,TRUE,226,Math,FALSE,9
+Civil or CEM,5,5,16,120,50,3,300,6e4,120,72,Male,8,30,iOS,Console,3,TRUE,60,Math,FALSE,22
+Civil or CEM,25,8,17,150,5,4,300,6e4,90,72,Male,8,52,iOS,Console,2,TRUE,180,Math,FALSE,10
+Civil or CEM,52,6,14,1,4,3,300,9e4,65,71,Male,36,22,iOS,Computer,16,TRUE,45,Math,FALSE,12
+Computer Science,1,4,12,37.2,2,1,250,4e4,15,72,Male,2,4,iOS,Computer,55,TRUE,0,Writing,FALSE,2
+Computer Science,10,5,14,72,1,1,0,4e4,10,73,Male,34,9,iOS,Console,3,TRUE,60,Math,FALSE,7
+Civil or CEM,10,11,13,19.41672131147541,4,0,200,48e3,63.124161073825505,68,Male,4,15,iOS,Mobile,4,TRUE,3000,Math,TRUE,5
+Computer Science,30,9,14,0.5,1,2,200,1e5,40,72.04,Male,15,26,Android,Computer,2,TRUE,120,Math,TRUE,3
+Computer Science,5,8,19,1,2,2,50,45e3,120,86,Male,1,14,iOS,Computer,6,FALSE,0,Math,FALSE,6
+Civil or CEM,15,8,16,3,5,3,450,65e3,480,69,Male,6,41,iOS,None (I don't play video games),0,TRUE,90,Math,TRUE,10
+Computer Science,20,2,12,19.41672131147541,1,2,400,5e4,45,72,Male,13,14,Android,Computer,10,FALSE,0,Math,FALSE,4
+Computer Science,15,9,15,0.7,4,6,0,6e4,60,73,Male,9,32,Android,Computer,10,TRUE,0,Math,FALSE,6
+Mechanical Engineering,25,8,13,0.5,2,6,300,45e3,30,66,Male,30,42,iOS,None (I don't play video games),0,TRUE,90,Math,FALSE,25
+Computer Science,20,2,15,0.6,1,0,400,3e4,0,68,Male,14,43,iOS,Computer,2,TRUE,285,Math,TRUE,18
+Mechanical Engineering,7,7,13,2.1,2,1,300,65e3,150,64,Male,7,1,iOS,None (I don't play video games),0,TRUE,10,Math,FALSE,15
+Computer Science,42.5,14,19,0.4,1,2,150,48e3,120,71,Male,24,33,iOS,Computer,4.5,TRUE,60,Math,TRUE,5
+Computer Science,15,12,18,0.9,0,1,50,66e3,30,70,Male,7,14,Android,Computer,5,TRUE,0,Math,FALSE,18
+Computer Science,20,2,14,19.41672131147541,1,0,200,8e4,30,62.2,Female,8,14,iOS,Mobile,5,TRUE,90,Math,TRUE,7
+Civil or CEM,30,8,19,1,1,8,200,48143,120,71,Male,8,37,iOS,Console,5,TRUE,15,Writing,FALSE,8
+Civil or CEM,10,6,15,2,5,6,300,1e5,30,73,Male,7,26,iOS,Console,8,TRUE,0,Writing,FALSE,12
+Industrial Engineering,2,5,17,19.41672131147541,4.956375838926174,0,300,35e3,90,61,Male,13,46,iOS,Mobile,2,TRUE,240,Math,TRUE,9
+Computer Science,21,3,15,2.3,3,3,200,75e3,20,72,Male,8,32,Android,Computer,25,TRUE,60,Math,FALSE,4
+Civil or CEM,2,2,16,304,3,5,300,7e4,120,69,Male,14,58,iOS,Computer,4,TRUE,120,Writing,FALSE,12
+Civil or CEM,10,7,14,0.9,3,2,100,5e4,0,73,Male,7,29,iOS,Computer,30,TRUE,25,Math,FALSE,4
+Computer Science,24,5,13,71,1,2,200,5e4,30,72,Male,3,10,Android,Computer,40,FALSE,20,Math,FALSE,4
+Mechanical Engineering,20,9,18,0.2,3,3,100,7e4,120,72,Male,5,3,iOS,Console,0,TRUE,30,Math,FALSE,12
+Mechanical Engineering,20,7,14,0.5,3,2,200,75e3,20,68,Female,5,8,Android,None (I don't play video games),0.25,TRUE,240,Math,FALSE,5
+Industrial Engineering,2,6,17,0.5,44,5,15,6e4,75,71,Male,10,48,iOS,Console,12,TRUE,40,Math,FALSE,13
+Computer Science,15,11,14,1,1,0,100,7e4,1,63,Male,8,1,Android,Computer,20,TRUE,60,Writing,FALSE,2
+Computer Science,27.5,12,17,1.3,2,5,300,4e4,60,90,Male,12,1,Android,Console,4,TRUE,120,Writing,FALSE,5
+Civil or CEM,35,11,17,0.1,0,5,250,5e4,105,73,Male,9,20,Android,Console,25,TRUE,60,Math,FALSE,6
+Computer Science,8,2,15,19.41672131147541,1,1,300,7e4,120,69,Male,13,39,Android,Computer,3,TRUE,90,Writing,FALSE,12
+Civil or CEM,14,8,17,3,5,3,350,8e4,120,71,Male,25,1,iOS,Computer,6,TRUE,40,Math,FALSE,24
+Chemical Engineering,36,6,18,0.5,4,6,650,95e3,160,73,Male,25,7,Android,Computer,4,TRUE,20,Writing,FALSE,28
+Civil or CEM,38,18,15,0.6,1,2,400,5e4,40,74,Male,10,41,iOS,Computer,10,TRUE,10,Math,FALSE,6
+Civil or CEM,0,7,14,2,4,5,100,6e4,40,70,Male,4,5,iOS,None (I don't play video games),0,FALSE,0,Math,FALSE,8
+Computer Science,40,2,12,105,2,1,200,66055,0,65,Female,4,1,Android,Mobile,10,TRUE,60,Math,TRUE,3
+Mechanical Engineering,31.5,5,13,1.5,4,2,210,6e4,1,68,Male,8,41,iOS,Computer,3,TRUE,30,Math,FALSE,3
+Computer Science,20,9,14,2.2,2,1,50,5e4,60,74,Male,8,1,Android,Computer,0,TRUE,60,Writing,FALSE,9
+Computer Science,15,10,12,1,40,8,80,6e4,60,75,Male,1,42,Android,Computer,17,TRUE,60,Math,TRUE,20
+Mechanical Engineering,32,11,13,2.6,2,5,350,67e3,120,71,Male,12,13,Android,Console,2,TRUE,120,Math,FALSE,4
+Computer Science,15,11,13,2.5,2.5,5,0,65e3,90,72,Male,9,26,iOS,Computer,0,FALSE,0,Math,FALSE,7
+Civil or CEM,5,12,14,19.41672131147541,1,2,400,65e3,30,72,Male,5,36,iOS,Console,10,TRUE,120,Math,FALSE,10
+Mechanical Engineering,25,6,10,51,1,5,250,65e3,45,72,Male,6,19,Android,Computer,0,TRUE,10,Writing,FALSE,6
+Computer Science,30,5,15,90,4,0,350,6e4,0,69,Male,25,1,iOS,Computer,40,FALSE,0,Math,FALSE,1
+Civil or CEM,12,8,15,0.7,4,5,200,75e3,20,73,Male,6,33,iOS,Console,21,TRUE,30,Math,FALSE,7
+Mechanical Engineering,5,7,14,2.8,2,2,200,6e4,45,71,Male,9,52,iOS,Console,2,TRUE,90,Math,FALSE,9
+Civil or CEM,6,5,13,307,1,4,250,65e3,0,70,Male,2,51,iOS,Console,6,TRUE,60,Math,FALSE,21
+Computer Science,40,7,15,0.7,6,5,300,6e4,15,74,Male,19,55,iOS,None (I don't play video games),0,TRUE,2,Math,FALSE,18
+Mechanical Engineering,30,7,15,0.1,1,5,150,5e4,90,72,Male,6,24,iOS,None (I don't play video games),0,TRUE,180,Math,FALSE,8
+Mechanical Engineering,30,2,16,2,0,2,200,1e5,30,70,Male,10,11,Android,Console,5,TRUE,30,Math,FALSE,16
+Computer Science,40,15,12,0.7,3,1,300,64722.43537414966,80,64,Male,5,14,iOS,Mobile,4,TRUE,60,Writing,TRUE,2
+Computer Science,20,5,16,19.41672131147541,1,5,150,7e4,60,74,Male,13,21,Android,Computer,5,TRUE,90,Math,FALSE,8
+Civil or CEM,15,8,15,0.8,5,3,250,65e3,60,73,Male,9,15,iOS,Console,10,TRUE,60,Math,FALSE,6
+Computer Science,0,2,17,0.4,1,0,160,64722.43537414966,37.5,66,Male,9,2,Android,Computer,35,TRUE,0,Math,TRUE,5
+Other,4,9,13,0.6,1,2,200,4e4,60,68,Male,12,1,iOS,Console,4,TRUE,30,Writing,TRUE,3
+Mechanical Engineering,28,8,14,0.6,43,5,200,51e3,20,70,Male,8,18,Android,Computer,2,TRUE,120,Math,FALSE,15
+Civil or CEM,6,4,16,19.41672131147541,0,3,400,9e4,60,70,Male,9,7,iOS,Console,10,TRUE,500,Math,FALSE,3
+Computer Science,10,15,13,0.5,3,3,100,7e4,30,64,Male,6,3,Android,None (I don't play video games),0,TRUE,60,Math,FALSE,3
+Computer Science,18,6,18,19.41672131147541,0,1,100,8e4,60,69,Male,9,14,Android,Computer,0,TRUE,20,Math,TRUE,3
+Civil or CEM,12,10,15,19.41672131147541,1,9,200,8e4,1,66,Male,6,48,iOS,Computer,0,TRUE,60,Math,FALSE,3
+Civil or CEM,20,8,14,1,3,7,300,8e4,0,71,Male,10,15,iOS,Console,5,TRUE,60,Writing,FALSE,5
+Computer Science,30,2,12,2.5,1,1,50,1e5,300,67,Male,10,15,iOS,Console,0,TRUE,60,Math,TRUE,3
+Computer Science,15,10,11,0.5,3,6,300,6e4,60,69,Male,90,41,iOS,Computer,15,TRUE,5,Math,FALSE,5
+Mechanical Engineering,16,5,15,0,1,1,300,5e4,25,66,Male,7,3,Android,Computer,0,TRUE,0,Writing,FALSE,11
+Other,32.5,2,17,0.5,0,0,400,7e4,45,69.5,Female,20,17,iOS,None (I don't play video games),0,TRUE,93,Math,FALSE,14
+Computer Science,8,2,13,0.2,1,2,150,7e4,90,71,Male,5,32,Android,Computer,2,TRUE,10,Math,FALSE,6
+Computer Science,20,8,15,19.41672131147541,1,0,500,1e5,180,69,Male,8,14,iOS,Computer,3,TRUE,120,Math,TRUE,5
+Computer Science,30,5,15,2,2,1,175,5e4,20,70,Male,9,14,Android,Computer,15,FALSE,0,Math,FALSE,11
+Civil or CEM,24,5,17,19.41672131147541,51,6,300,75e3,90,69,Male,11,23,iOS,None (I don't play video games),0,TRUE,30,Math,FALSE,5
+Computer Science,10,6,15,1.7,4,1,100,45e3,30,70,Male,4,1,iOS,Computer,0,TRUE,15,Math,TRUE,4
+Computer Science,8,9,16,19.41672131147541,1,5,400,4e4,20,63,Female,10,4,Android,Computer,30,FALSE,0,Writing,FALSE,20
+Computer Science,21,5,15,74,2,0,70,7e4,60,72,Male,0,47,iOS,Computer,4,TRUE,2,Math,FALSE,4
+Computer Science,15,2,14,81.1,1,2,100,8e4,120,70,Male,9,14,Android,Computer,14,TRUE,120,Math,FALSE,7
+Civil or CEM,8,6,13,0.9,4,7,100,65e3,45,74,Male,5,45,Android,None (I don't play video games),0,TRUE,120,Math,FALSE,15
+Civil or CEM,5,8,13,85,4,4,200,6e4,15,69,Male,20,43,iOS,Console,20,TRUE,60,Math,FALSE,9
+Mechanical Engineering,15,3,14,3,2,5,300,7e4,30,70,Male,20,52,Android,Computer,2,TRUE,47,Math,FALSE,8
+Computer Science,30,8,13,1.5,4,4,30,8e4,120,71,Male,3,1,Android,Computer,0,TRUE,5,Math,FALSE,12
+Other,4,8,15,0.5,27,4,300,5e4,60,71,Male,5,3,iOS,Computer,4,TRUE,30,Math,FALSE,8
+Computer Science,13,7,15,0.6,3,3,500,75e3,45,72,Male,11,4,Android,Console,30,TRUE,20,Math,FALSE,7
+Mechanical Engineering,30,2,15,0.5,4,9,350,5e4,100,70,Male,3,42,Android,Console,2,TRUE,300,Math,FALSE,12
+Computer Science,160,5,14,1.3,1,1,0,7e4,0,71,Male,17,50,Android,Console,5,TRUE,5,Math,FALSE,10
+Computer Science,5,5,14,0.3,1,3,300,9e4,45,71,Male,11,42,iOS,Computer,15,TRUE,60,Math,FALSE,15
+Mechanical Engineering,32,2,14,0.2,30,5,450,7e4,60,70,Male,5,31,iOS,Console,4,TRUE,45,Math,FALSE,11
+Civil or CEM,25,9,14,2.7,1,8,200,55e3,20,72,Female,9,18,iOS,None (I don't play video games),0,TRUE,80,Math,FALSE,10
+Computer Science,8,3,15,11.2,2,11,250,65e3,60,70,Male,8,1,Android,Console,0,TRUE,10,Math,FALSE,10
+Computer Science,19,3,14,19.41672131147541,2,0,200,6e4,1,69,Male,12,1,iOS,Computer,10,FALSE,0,Writing,TRUE,3
+Computer Science,30,11,16,0.3,4,0,235.98639455782313,64722.43537414966,120,62,Female,17,26,iOS,Mobile,10,TRUE,100,Math,TRUE,2
+Computer Science,24.5,10,14,15.3,1,4,300,5e4,17,67,Male,23,51,iOS,Computer,10,TRUE,0,Writing,FALSE,16
+Other,6,4,17,19.41672131147541,2,1,60,7e4,0,71,Male,8,26,Android,Computer,60,TRUE,30,Math,FALSE,3
+Mechanical Engineering,30,7,14,0,2,3,200,35e3,75,70,Male,13,29,iOS,Console,3,TRUE,70,Math,TRUE,4
+Computer Science,11,2,18,19.41672131147541,2,1,200,7e4,30,73,Male,14,3,Android,Computer,10,TRUE,20,Math,FALSE,22
+Civil or CEM,16,14,16,1.2,2,7,250,1e5,120,71,Male,30,10,Android,Console,2,TRUE,60,Math,FALSE,7
+Computer Science,30,13,14,0.3,2,2,60,55e3,120,68,Male,10,47,iOS,Computer,12,TRUE,120,Math,TRUE,4
+Computer Science,20,9,19,19.41672131147541,2,1,235.98639455782313,9e4,180,80,Male,9,47,iOS,None (I don't play video games),0,TRUE,30,Math,TRUE,3
+Computer Science,31,5,19,1.7,2,3,400,7e4,90,71,Male,22,9,Android,Computer,8,TRUE,10,Math,FALSE,6
+Computer Science,5,7,16,0.5,4,5,35,65e3,30,70,Male,23,14,Android,Computer,25.4,TRUE,240,Writing,FALSE,5
+Computer Science,30,8,14,0.8,2,5,200,8e4,20,71,Male,9,42,iOS,Computer,5,TRUE,120,Math,FALSE,10
+Computer Science,5,12,16,19.41672131147541,2,5,150,8e4,120,73,Male,15,21,iOS,Computer,25,TRUE,20,Math,FALSE,6
+Mechanical Engineering,20,6,12,0.5,3,5,200,65e3,45,73,Male,15,27,iOS,Console,0,TRUE,390,Math,FALSE,10
+Computer Science,10,3,12,2,3,3,100,6e4,20,68,Male,1,41,iOS,Console,20,TRUE,0,Math,FALSE,10
+Computer Science,5,8,18,2,3,2,235.98639455782313,9e4,90,72,Male,4,15,Android,Computer,2,TRUE,120,Math,FALSE,5
+Computer Science,26,2,15,44,2,1,100,5e4,15,64,Female,19,55,iOS,Console,25,TRUE,60,Writing,FALSE,7
+Mechanical Engineering,90,8,14,1,4,2,500,9e4,20,72,Male,47,16,iOS,None (I don't play video games),0,TRUE,45,Math,FALSE,10
+Mechanical Engineering,24,7,16,1.6,1,8,300,65e3,30,71,Male,8,3,iOS,Console,2,TRUE,118,Math,FALSE,7
+Civil or CEM,1,4,13,116,3,2,300,9e4,90,73,Male,10,16,iOS,Console,10,TRUE,120,Math,FALSE,6
+Mechanical Engineering,21,8,13,0.7,1,6,300,6e4,45,72,Male,25,21,iOS,None (I don't play video games),0,TRUE,240,Math,FALSE,6
